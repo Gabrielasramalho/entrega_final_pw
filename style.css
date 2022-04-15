@@ -81,7 +81,7 @@ nav {
 	top:0%;
 		}
 
-  .quadro1. > div{
+  .quadro1, .quadro2, .quadro3 {
 display: flex;
 flex-direction: row;			  
 border-right: 1px; 
